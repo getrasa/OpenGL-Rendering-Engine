@@ -1,6 +1,6 @@
 # OpenGL-Rendering-Engine
 A simple rendering engine written in C++ and OpenGL. It support albedo, metallic, roughness and normal maps. It also allows for playing animations and even supports watching models in VR with the help of openVR library.
-It was experimental project so the code isn't optimal nor very clean.
+It was an experimental project so the code isn't optimal nor very clean.
 
 ##### Animation Showcase:
 
