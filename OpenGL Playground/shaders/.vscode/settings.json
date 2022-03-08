@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "mesh.C": "cpp",
+        "vector": "cpp"
+    }
+}
