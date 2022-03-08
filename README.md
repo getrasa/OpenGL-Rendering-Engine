@@ -6,7 +6,7 @@ It was experimental project so the code isn't optimal nor very clean.
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/21182768/157209874-74072228-586e-4e7a-99f3-b1278c2eccb8.gif)
 
-##### Fully textured model
+##### Fully textured model:
 
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/21182768/157209887-1e4cd2ee-825c-45d6-bb20-339486e44e77.gif)
 
